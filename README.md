@@ -17,7 +17,7 @@ A simple text-based adventure game called "Creepy House" written on <b>Python</b
 To get a local copy up and running, follow these simple steps:
 <br/>
 
-Clone the <code>simple-python-apps</code> repository and fetch only the text-adventure-game-branch branch:<br/>
+Clone the <code>simple-python-apps</code> repository and fetch only the <code>text-adventure-game-branch</code> branch:<br/>
 git clone -b text-adventure-game-branch --single-branch https://github.com/Yuliia-Kruta/simple-python-apps.git<br/>
 Navigate to the project directory and run the <code>text_game_robust.py</code> script.
 
